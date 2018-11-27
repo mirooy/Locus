@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Locus</string>
+    <string name="title_map">Map</string>
+    <string name="title_saved">Saved</string>
+    <string name="title_grid">Grid</string>
+    <string name="search_loc">Lookup a location</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1029657152599",
+    "firebase_url": "https://locus-fcae9.firebaseio.com",
+    "project_id": "locus-fcae9",
+    "storage_bucket": "locus-fcae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029657152599:android:46a1c08b9235d835",
+        "android_client_info": {
+          "package_name": "com.example.jt.locus_draft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029657152599-o3a4k06p7s8eo52q0qrn8bods94ncgj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jt.locus_draft",
+            "certificate_hash": "4c4e6ed9bf62f3a2c901ff70bf3ee4bf7e19f06a"
+          }
+        },
+        {
+          "client_id": "1029657152599-0jcpca18120clie4ipgls3puhftdsavt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jt.locus_draft",
+            "certificate_hash": "d4b56e2127891b31e73f92295c7dd5c68f5f55f5"
+          }
+        },
+        {
+          "client_id": "1029657152599-j8k8b5vs69n21aid6vkl9hqjjpdqulak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRkvthNeyOnE7X__KUksE4_9enW4oDeQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029657152599-j8k8b5vs69n21aid6vkl9hqjjpdqulak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

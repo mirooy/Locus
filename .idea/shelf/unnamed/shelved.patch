@@ -1,0 +1,17 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ProjectModuleManager\">\n    <modules>\n      <module fileurl=\"file://$PROJECT_DIR$/160-locus.iml\" filepath=\"$PROJECT_DIR$/160-locus.iml\" />\n      <module fileurl=\"file://$PROJECT_DIR$/app/app.iml\" filepath=\"$PROJECT_DIR$/app/app.iml\" />\n      <module fileurl=\"file://$PROJECT_DIR$/proj.iml\" filepath=\"$PROJECT_DIR$/proj.iml\" />\n      <module fileurl=\"file://C:\\Users\\User\\Desktop\\Spring 2018\\CS 160\\Locus\\160-locus\\proj.iml\" filepath=\"C:\\Users\\User\\Desktop\\Spring 2018\\CS 160\\Locus\\160-locus\\proj.iml\" />\n    </modules>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(revision 7f5e0ac96a1cfc3c73087720e2bb69f5b0759750)
++++ .idea/modules.xml	(revision )
+@@ -4,7 +4,6 @@
+     <modules>
+       <module fileurl="file://$PROJECT_DIR$/160-locus.iml" filepath="$PROJECT_DIR$/160-locus.iml" />
+       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+-      <module fileurl="file://$PROJECT_DIR$/proj.iml" filepath="$PROJECT_DIR$/proj.iml" />
+       <module fileurl="file://C:\Users\User\Desktop\Spring 2018\CS 160\Locus\160-locus\proj.iml" filepath="C:\Users\User\Desktop\Spring 2018\CS 160\Locus\160-locus\proj.iml" />
+     </modules>
+   </component>
